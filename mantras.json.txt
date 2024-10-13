@@ -1,10 +1,4 @@
 [
-    {
-        "mantra": "Om Gan Ganapataye Namah",
-        "deity": "Ganesha"
-    },
-    {
-        "mantra": "Om Namah Shivaya",
-        "deity": "Shiva"
-    }
+    "Om Gan Ganapataye Namah",
+    "Om Namah Shivaya"
 ]
