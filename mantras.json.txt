@@ -1,6 +1,6 @@
 {
   "images": [
-    "https://raw.githubusercontent.com/username/repo-name/branch-name/images/for-free.png",
+    "https://i.postimg.cc/J4DZ7jzd/e81cb0a0bce7a8fd8f996d666841e412.jpg",
     "https://raw.githubusercontent.com/username/repo-name/branch-name/images/image2.jpg",
     "https://raw.githubusercontent.com/username/repo-name/branch-name/images/image3.jpg",
     "https://raw.githubusercontent.com/username/repo-name/branch-name/images/image4.jpg"
