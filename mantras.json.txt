@@ -1,17 +1,8 @@
-[
-   {
-      "id": 1,
-      "title": "Card 1 Title",
-      "description": "Card 1 Description"
-   },
-   {
-      "id": 2,
-      "title": "Card 2 Title",
-      "description": "Card 2 Description"
-   },
-   {
-      "id": 3,
-      "title": "Card 3 Title",
-      "description": "Card 3 Description"
-   }
-]
+{
+  "images": [
+    "https://raw.githubusercontent.com/username/repo-name/branch-name/images/for-free.png",
+    "https://raw.githubusercontent.com/username/repo-name/branch-name/images/image2.jpg",
+    "https://raw.githubusercontent.com/username/repo-name/branch-name/images/image3.jpg",
+    "https://raw.githubusercontent.com/username/repo-name/branch-name/images/image4.jpg"
+  ]
+}
